@@ -1,4 +1,4 @@
-BOT_TOKEN = '6814682306:AAHtB8kSAy5ZyzrIYH7h6HfygYLIllONdnc'
+BOT_TOKEN = 'ваш токен'
 
 statuses = ('waiting', #0
             'add_shop', #1
